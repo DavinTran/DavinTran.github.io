@@ -298,6 +298,10 @@ footer .nav-links{
         gap: 0;
         justify-content: space-between;
     }
+    .container-container{
+        flex-direction: column;
+        gap: 1rem;
+    }
     footer{
         padding: 0;
         padding-bottom: 20px;
